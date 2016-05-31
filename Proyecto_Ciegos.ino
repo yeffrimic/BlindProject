@@ -10,10 +10,12 @@ void setup() {
 }
 
 void loop() {
-digitalWrite(motor,HIGH);
-delay(ultrasonicsensor());
-digitalWrite(motor,LOW);
-delay(ultrasonicsensor());
+if(ultrasonicsensor()<100){
+  digitalWrite(motor,HIGH);
+  delay(ultrasonicsensor());
+  digitalWrite(motor,LOW);
+  delay(ultrasonicsensor());
+}
 }
 
 int ultrasonicsensor() {
