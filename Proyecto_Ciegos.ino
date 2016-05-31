@@ -1,3 +1,15 @@
+/*
+ * Blind project by yeffri Salazar
+ * is an open source hardware project that wants to give to the
+ * blind persons another sense or way to feel the world sorround 
+ * them using at this time an ultrasonic sensor and a vibrator motor 
+ * as actuator to interact with the body.
+ * 
+ * 
+ */
+
+
+
 
 #define iPinTrigger  1 //D1
 #define iPinEcho  2 //D2
