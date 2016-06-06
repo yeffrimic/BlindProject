@@ -1,34 +1,36 @@
 /*
  * Blind project by yeffri Salazar
  * is an open source hardware project that wants to give to the
- * blind persons another sense or way to feel the world sorround 
- * them using at this time an ultrasonic sensor and a vibrator motor 
+ * blind persons another sense or way to feel the world sorround
+ * them using at this time an ultrasonic sensor and a vibrator motor
  * as actuator to interact with the body.
- * 
- * 
+ *
+ *
  */
 
 
 
 
-#define iPinTrigger  1 //D1
-#define iPinEcho  2 //D2
-#define motor 0
+#define iPinTrigger  3 //D1
+#define iPinEcho  4 //D2
+#define motor 1
 void setup() {
   // put your setup code here, to run once:
- pinMode(iPinTrigger,OUTPUT);
- pinMode(motor,OUTPUT);
- pinMode(iPinEcho,INPUT);
+  pinMode(iPinTrigger, OUTPUT);
+  pinMode(motor, OUTPUT);
+  pinMode(iPinEcho, INPUT);
 }
 
 void loop() {
-  int distance = ultrasonicsensor();
-if(distance<100){
-  digitalWrite(motor,HIGH);
-  delay(distance);
-  digitalWrite(motor,LOW);
-  delay(distance);
-}
+  int average= ultrasonicsensor();
+
+  
+  if (average < 100) {
+    digitalWrite(motor, HIGH);
+    delay(300-average);
+    digitalWrite(motor, LOW);
+    delay(average);
+  }
 }
 
 int ultrasonicsensor() {
