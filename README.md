@@ -1,9 +1,22 @@
 #Blind project
-###this is a project for blind people that gives them a new way to feel the proximity 
-using sensors to measure the distance from his body to the world's elements.
-###
+this is a project for blind people that gives them a new way to feel the proximity. Using sensors to measure the distance from his body to the world's elements. you can use it as a clothespin.
+
+##Installation
+Download the sketch and upload the code to an ATtiny 85
+tutorial: https://themicrofcontrol.wordpress.com/2016/06/03/como-programar-un-attiny-con-arduino/
 
 
+##Circuit
+
+
+##Board
+
+
+##case
+
+##usage
+you can use it as a clothespin 
+ 
 ##issues
 slow detection code
 vibrator wire brokes 
