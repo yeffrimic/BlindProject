@@ -10,7 +10,8 @@
 
 
 
-
+#define button 2
+#define VccUltrasonicSensor 0
 #define iPinTrigger  3 //D1
 #define iPinEcho  4 //D2
 #define motor 1
@@ -19,15 +20,17 @@ void setup() {
   pinMode(iPinTrigger, OUTPUT);
   pinMode(motor, OUTPUT);
   pinMode(iPinEcho, INPUT);
+  pinMode(VccUltrasonicSensor, OUTPUT);
+  pinMode(button, INPUT);
+  digitalWrite(motor,LOW);
+  digitalWrite(VccUltrasonicSensor,HIGH);
 }
 
 void loop() {
   int average= ultrasonicsensor();
-
-  
   if (average < 100) {
     digitalWrite(motor, HIGH);
-    delay(300-average);
+    delay(average);
     digitalWrite(motor, LOW);
     delay(average);
   }
@@ -53,6 +56,5 @@ int ultrasonicsensor() {
   //Get one way distance
   fDistance = fDistance / 2;
 
-  delay(100);
   return fDistance;
 }
