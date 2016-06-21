@@ -12,7 +12,7 @@ tutorial: https://themicrofcontrol.wordpress.com/2016/06/03/como-programar-un-at
 ##Board
 
 
-##case
+##mounting case
 
 ##usage
 you can use it as a clothespin 
