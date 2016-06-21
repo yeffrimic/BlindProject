@@ -18,7 +18,7 @@ tutorial: https://themicrofcontrol.wordpress.com/2016/06/03/como-programar-un-at
 you can use it as a clothespin 
  
 ##issues
-slow detection code
+slow detection code, \n
 vibrator wire brokes 
 
 
