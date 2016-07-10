@@ -7,8 +7,13 @@
 #####[Sebastian Juarez](https://jucamake.wordpress.com) 3d design for the mounting case
 
 ##requirements
-#####Attiny85
-
+#####* Attiny85
+#####* two transistors 2n3904
+#####* push button two pins
+#####* socket 8 pins
+#####* USB cable
+#####* ultrasonic sensor HC-SR04
+#####* copper wire
 
 ##Installation
 #####Download the sketch and upload the code to an ATtiny 85
@@ -30,7 +35,7 @@ tutorial: https://themicrofcontrol.wordpress.com/2016/06/03/como-programar-un-at
 ![Alt text](/images/case/5.jpg?raw=true "Optional Title")
 ![Alt text](/images/case/6.jpg?raw=true "Optional Title")
 
-##STL FIlES
+##STL FILES
 #####The files are in the 3d files folder.
 #####[Front] (https://github.com/yeffrimic/BlindProject/blob/master/3d%20files/Pieza1.STL)
 #####[Back] (https://github.com/yeffrimic/BlindProject/blob/master/3d%20files/Pieza2.STL)
