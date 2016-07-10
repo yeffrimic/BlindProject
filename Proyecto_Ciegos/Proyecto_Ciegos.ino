@@ -2,7 +2,7 @@
  ******************************
  **      blind Project       **
  **                          **
- ******************************                          
+ ******************************
  *by Yeffri Salazar
  */
 
@@ -33,9 +33,9 @@ void loop() {
   int average = ultrasonicsensor();
   if (average < 100) {
     digitalWrite(motor, HIGH);
-    delay((average*3));
+    delay((average * 3));
     digitalWrite(motor, LOW);
-    delay((average*3));
+    delay((average * 3));
   }
 }
 
@@ -61,3 +61,5 @@ int ultrasonicsensor() {
   delay(10);
   return fDistance;
 }
+
+
