@@ -1,9 +1,9 @@
 ﻿
-##Blind project
+#Blind project
 #####this is a project for blind people that gives them a new way to feel the proximity. Using sensors to measure the distance from his body to the world's elements. you can use it as a clothespin.
 
-#Team Members
-#####[Yeffri J. Salazar](yeffrimic)
+##Team Members
+#####[Yeffri J. Salazar](https://themicrofcontrol.wordpress.com) leader team
 #####[Sebastian Juarez](https://jucamake.wordpress.com) 3d design for the mounting case
 
 ##requirements
