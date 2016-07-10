@@ -13,10 +13,11 @@ tutorial: https://themicrofcontrol.wordpress.com/2016/06/03/como-programar-un-at
 
 
 ##mounting case
-The files are in the 3d files folder.
+###The files are in the 3d files folder.
 ![Alt text](/images/case/CajaV2.0.jpg?raw=true "Optional Title")
-Front https://github.com/yeffrimic/BlindProject/blob/master/3d%20files/Pieza1.STL
-back https://github.com/yeffrimic/BlindProject/blob/master/3d%20files/Pieza2.STL
+
+###Front https://github.com/yeffrimic/BlindProject/blob/master/3d%20files/Pieza1.STL
+###back https://github.com/yeffrimic/BlindProject/blob/master/3d%20files/Pieza2.STL
 
 ##usage
 you can use it as a clothespin 
