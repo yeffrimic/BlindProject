@@ -14,7 +14,12 @@ tutorial: https://themicrofcontrol.wordpress.com/2016/06/03/como-programar-un-at
 
 ##mounting case
 ###The files are in the 3d files folder.
-![Alt text](/images/case/CajaV2.0.jpg?raw=true "Optional Title")
+![Alt text](/images/case/1.jpg?raw=true "Optional Title")
+![Alt text](/images/case/2.jpg?raw=true "Optional Title")
+![Alt text](/images/case/3.jpg?raw=true "Optional Title")
+![Alt text](/images/case/4.jpg?raw=true "Optional Title")
+![Alt text](/images/case/5.jpg?raw=true "Optional Title")
+![Alt text](/images/case/6.jpg?raw=true "Optional Title")
 
 ##STL FIlES
 ###[Front] (https://github.com/yeffrimic/BlindProject/blob/master/3d%20files/Pieza1.STL)
