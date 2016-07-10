@@ -1,19 +1,20 @@
 ﻿
 #Blind project
 #####this is a project for blind people that gives them a new way to feel the proximity. Using sensors to measure the distance from his body to the world's elements. you can use it as a clothespin.
+##### It's also thinking in an easy way to construct and develop it, having in mind low skills learned. 
 
 ##Team Members
-#####[Yeffri J. Salazar](https://themicrofcontrol.wordpress.com) leader team
-#####[Sebastian Juarez](https://jucamake.wordpress.com) 3d design for the mounting case
+#####[Yeffri J. Salazar](https://themicrofcontrol.wordpress.com) leader team, prototyping.
+#####[Sebastian Juarez](https://jucamake.wordpress.com) 3d design.
 
 ##requirements
-#####* Attiny85
-#####* two transistors 2n3904
-#####* push button two pins
-#####* socket 8 pins
-#####* USB cable
-#####* ultrasonic sensor HC-SR04
-#####* copper wire
+#####* Attiny85.
+#####* two transistors 2n3904.
+#####* push button two pins.
+#####* socket 8 pins.
+#####* USB cable.
+#####* ultrasonic sensor HC-SR04.
+#####* copper wire.
 
 ##Installation
 #####Download the sketch and upload the code to an ATtiny 85
@@ -41,7 +42,7 @@ tutorial: https://themicrofcontrol.wordpress.com/2016/06/03/como-programar-un-at
 #####[Back] (https://github.com/yeffrimic/BlindProject/blob/master/3d%20files/Pieza2.STL)
 
 ##usage
-you can use it as a clothespin, just need to put in the clothes
+you can use it as a clothespin, just need to put in the clothes.
  
 ##issues
 
