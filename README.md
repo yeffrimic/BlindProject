@@ -21,11 +21,9 @@ tutorial: https://themicrofcontrol.wordpress.com/2016/06/03/como-programar-un-at
 ###[Back] (https://github.com/yeffrimic/BlindProject/blob/master/3d%20files/Pieza2.STL)
 
 ##usage
-you can use it as a clothespin 
+you can use it as a clothespin, just need to put in the clothes
  
 ##issues
-slow detection code, \n
-vibrator wire brokes 
 
 
 #Collaborators
