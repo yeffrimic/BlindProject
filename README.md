@@ -14,6 +14,7 @@ tutorial: https://themicrofcontrol.wordpress.com/2016/06/03/como-programar-un-at
 
 ##mounting case
 The files are in the 3d files folder.
+![Alt text](/3d%20files/Pieza1.STL?raw=true "Optional Title")
 Front https://github.com/yeffrimic/BlindProject/blob/master/3d%20files/Pieza1.STL
 back https://github.com/yeffrimic/BlindProject/blob/master/3d%20files/Pieza2.STL
 
