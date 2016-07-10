@@ -1,4 +1,4 @@
-#Blind project
+﻿#Blind project
 this is a project for blind people that gives them a new way to feel the proximity. Using sensors to measure the distance from his body to the world's elements. you can use it as a clothespin.
 
 ##Installation
@@ -13,6 +13,9 @@ tutorial: https://themicrofcontrol.wordpress.com/2016/06/03/como-programar-un-at
 
 
 ##mounting case
+The files are in the 3d files folder.
+Front https://github.com/yeffrimic/BlindProject/blob/master/3d%20files/Pieza1.STL
+back https://github.com/yeffrimic/BlindProject/blob/master/3d%20files/Pieza2.STL
 
 ##usage
 you can use it as a clothespin 
