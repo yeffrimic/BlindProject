@@ -1,13 +1,12 @@
 ﻿
 #Blind project
-is an open oroject that want to give Blind people a new way to feel the world, using an ultrasonic sensor to measure the distance between the device and an obstacle a meter away.
+Is an open project that want to give blind people a new way to feel the world, using an ultrasonic sensor to measure the distance between the device and an obstacle a meter away.
 
 
 
 
 ##Team Members
 Yeffri J. Salazar](https://themicrofcontrol.wordpress.com) team leader, prototyping.
-
 Sebastian Juarez](https://jucamake.wordpress.com) 3d design.
 
 ##Requirements
@@ -30,6 +29,18 @@ tutorial: https://themicrofcontrol.wordpress.com/2016/06/03/como-programar-un-at
 ##Board
 
 
+##Usage
+you can use it as a clothespin, just need to put in the clothes.
+ 
+##Issues
+
+
+##STL FILES
+The files are in the 3d files folder.
+[Front] (https://github.com/yeffrimic/BlindProject/blob/master/3d%20files/Pieza1.STL)
+[Back] (https://github.com/yeffrimic/BlindProject/blob/master/3d%20files/Pieza2.STL)
+
+
 ##Mounting case
 #####Images
 ![Alt text](/images/case/1.jpg?raw=true "Optional Title"=400x)
@@ -39,15 +50,9 @@ tutorial: https://themicrofcontrol.wordpress.com/2016/06/03/como-programar-un-at
 ![Alt text](/images/case/5.jpg?raw=true "Optional Title"=400x)
 ![Alt text](/images/case/6.jpg?raw=true "Optional Title"=400x)
 
-##STL FILES
-The files are in the 3d files folder.
-[Front] (https://github.com/yeffrimic/BlindProject/blob/master/3d%20files/Pieza1.STL)
-[Back] (https://github.com/yeffrimic/BlindProject/blob/master/3d%20files/Pieza2.STL)
 
-##Usage
-you can use it as a clothespin, just need to put in the clothes.
- 
-##Issues
+
+
 
 
 
