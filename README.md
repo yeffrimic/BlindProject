@@ -1,10 +1,11 @@
 ﻿
 #Blind project
-#####this is a project for blind people that gives them a new way to feel the proximity. Using sensors to measure the distance from his body to the world's elements. you can use it as a clothespin.
-##### It's also thinking in an easy way to construct and develop it, having in mind low skills learned. 
+###is an open oroject that want to give Blind people a new way to feel the world, using an ultrasonic sensor to measure the distance between the device and an obstacle a meter away.
+
+
 
 ##Team Members
-#####[Yeffri J. Salazar](https://themicrofcontrol.wordpress.com) leader team, prototyping.
+#####[Yeffri J. Salazar](https://themicrofcontrol.wordpress.com) team leader, prototyping.
 #####[Sebastian Juarez](https://jucamake.wordpress.com) 3d design.
 
 ##Requirements
@@ -42,11 +43,11 @@ tutorial: https://themicrofcontrol.wordpress.com/2016/06/03/como-programar-un-at
 #####[Back] (https://github.com/yeffrimic/BlindProject/blob/master/3d%20files/Pieza2.STL)
 
 ##Usage
-you can use it as a clothespin, just need to put in the clothes.
+#####you can use it as a clothespin, just need to put in the clothes.
  
 ##Issues
 
 
 
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Licencia Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Blind project</span> por <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/yeffrimic/BlindProject" property="cc:attributionName" rel="cc:attributionURL">Yeffri salazar</a> se distribuye bajo una <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional</a>.<br />Basada en una obra en <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/yeffrimic/BlindProject/blob/master/Proyecto_Ciegos.ino" rel="dct:source">https://github.com/yeffrimic/BlindProject/blob/master/Proyecto_Ciegos.ino</a>.
+#####<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Licencia Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Blind project</span> por <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/yeffrimic/BlindProject" property="cc:attributionName" rel="cc:attributionURL">Yeffri salazar</a> se distribuye bajo una <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional</a>.<br />Basada en una obra en <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/yeffrimic/BlindProject/blob/master/Proyecto_Ciegos.ino" rel="dct:source">https://github.com/yeffrimic/BlindProject/blob/master/Proyecto_Ciegos.ino</a>.
