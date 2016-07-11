@@ -1,13 +1,12 @@
-﻿
-#Blind project
+﻿#Blind project
 Is an open project that want to give blind people a new way to feel the world, using an ultrasonic sensor to measure the distance between the device and an obstacle a meter away.
 
-
-
+##Usage
+you can use it as a clothespin, just need to put in the clothes.
 
 ##Team Members
-Yeffri J. Salazar](https://themicrofcontrol.wordpress.com) team leader, prototyping.
-Sebastian Juarez](https://jucamake.wordpress.com) 3d design.
+[Yeffri J. Salazar](https://themicrofcontrol.wordpress.com) team leader, prototyping.<br />
+[Sebastian Juarez](https://jucamake.wordpress.com) 3d design.
 
 ##Requirements
 * Attiny85.
@@ -19,21 +18,14 @@ Sebastian Juarez](https://jucamake.wordpress.com) 3d design.
 * copper wire.
 
 ##Installation
-Download the sketch and upload the code to an ATtiny 85
+Download the sketch and upload the code to an ATtiny 85<br />
 tutorial: https://themicrofcontrol.wordpress.com/2016/06/03/como-programar-un-attiny-con-arduino/
-
 
 ##Circuit
 
-
 ##Board
 
-
-##Usage
-you can use it as a clothespin, just need to put in the clothes.
- 
 ##Issues
-
 
 ##STL FILES
 The files are in the 3d files folder.
