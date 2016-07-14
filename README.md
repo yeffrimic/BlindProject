@@ -24,11 +24,11 @@ tutorial: https://themicrofcontrol.wordpress.com/2016/06/03/como-programar-un-at
 
 ##Circuit
 
-![Alt text](/images/case/schematic.jpg?raw=true "Optional Title"=400x)
+![Alt text](/images/circuit/schematic.jpg?raw=true "Optional Title"=400x)
 
 ##Board
 
-![Alt text](/images/case/board.jpg?raw=true "Optional Title"=400x)
+![Alt text](/images/circuit/board.jpg?raw=true "Optional Title"=400x)
 ##Issues
 
 ##STL FILES
