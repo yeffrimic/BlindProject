@@ -15,7 +15,8 @@ you can use it as a clothespin, just need to put in the clothes.
 * socket 8 pins.
 * USB cable.
 * ultrasonic sensor HC-SR04.
-* copper wire.
+* coin vibrator.
+
 
 ##Installation
 Download the sketch and upload the code to an ATtiny 85<br />
@@ -23,8 +24,11 @@ tutorial: https://themicrofcontrol.wordpress.com/2016/06/03/como-programar-un-at
 
 ##Circuit
 
+![Alt text](/images/case/schematic.jpg?raw=true "Optional Title"=400x)
+
 ##Board
 
+![Alt text](/images/case/board.jpg?raw=true "Optional Title"=400x)
 ##Issues
 
 ##STL FILES
