@@ -8,8 +8,8 @@
 
 
 
-#define button 2
-#define VccUltrasonicSensor 0
+#define button 0
+#define VccUltrasonicSensor 2
 #define iPinTrigger  3 //D1
 #define iPinEcho  4 //D2
 #define motor 1
