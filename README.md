@@ -9,19 +9,19 @@ you can use it as a clothespin, just need to put in the clothes.
 [Sebastian Juarez](https://jucamake.wordpress.com) 3d design.
 
 ##Requirements
-* Attiny85.
-* two transistors 2n3904.
-* push button two pins.
-* socket 8 pins.
-* USB cable.
-* ultrasonic sensor HC-SR04.
-* coin vibrator.
+* [Attiny85.](http://www.ebay.com/itm/10PCS-ATTINY13A-PU-ATTINY13A-DIP8-IC-MCU-AVR-1K-FLASH-20MHZ-ATMEL-NEW-/191674226371)
+* [two transistors 2n3904.](http://www.ebay.com/itm/100Pcs-2N3904-TO-92-NPN-General-Purpose-Transistor-/381374819086?hash=item58cbb5eb0e:g:UwoAAOxyyFhTeDDy)
+* [push button two pins.](http://www.ebay.com/itm/100pcs-2pins-Tactile-Push-Button-Switch-Tact-Switch-6X6X5mm-Momentary-/291613157808?hash=item43e57fa9b0:g:LG4AAOSwQaJXRdV2)
+* [socket 8 pins.](http://www.ebay.com/itm/10PCS-8-Pins-DIP-IC-Sockets-Adaptor-Solder-Type-Socket-/161009224443?hash=item257ce5cafb:g:xaQAAOxyhodRzwOe)
+* [USB cable.](http://www.ebay.com/itm/10Pcs-USB2-0-Type-A-Plug-4-pin-Male-Adapter-Connector-jack-Black-Plastic-Cover-/272041592227?hash=item3f56f145a3:g:auQAAOSwiYFXHd-g)
+* [ultrasonic sensor HC-SR04.](http://www.ebay.com/itm/5pcs-Ultrasonic-Module-HC-SR04-Distance-Measuring-Transducer-Sensor-for-Arduino-/381374789471?hash=item58cbb5775f:g:Rd0AAOxySoJTWL-h)
+* [coin vibrator.](http://www.ebay.com/itm/3V-DC-Coin-Sized-Vibration-Motor-10mm-x-3-3mm-x2-Atmel-AVR-Arduino-/131671891439?hash=item1ea8419def:g:liMAAOSwHQ9WUpaR)
 
 
 ##Installation
 Download the sketch and upload the code to an ATtiny 85<br />
 tutorial: https://themicrofcontrol.wordpress.com/2016/06/03/como-programar-un-attiny-con-arduino/
-
+Please change the LED2 by the coin vibrator.
 ##Circuit
 
 ![Alt text](/images/circuit/schematic.png?raw=true "Optional Title"=400x)
@@ -52,5 +52,5 @@ The files are in the 3d files folder.
 
 
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Licencia Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Blind project</span> por <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/yeffrimic/BlindProject" property="cc:attributionName" rel="cc:attributionURL">Yeffri salazar</a> se distribuye bajo una <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional</a>.<br />Basada en una obra en <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/yeffrimic/BlindProject/blob/master/Proyecto_Ciegos.ino" rel="dct:source">https://github.com/yeffrimic/BlindProject/blob/master/Proyecto_Ciegos.ino</a>.
 ###Sponsored by [TETTSA ![Alt text](/images/tettsa.jpg?raw=true "Optional Title"=400x)](https://www.facebook.com/Electronica-Tettsa-336404033108589/?fref=ts)
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Licencia Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Blind project</span> por <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/yeffrimic/BlindProject" property="cc:attributionName" rel="cc:attributionURL">Yeffri salazar</a> se distribuye bajo una <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional</a>.<br />Basada en una obra en <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/yeffrimic/BlindProject/blob/master/Proyecto_Ciegos.ino" rel="dct:source">https://github.com/yeffrimic/BlindProject/blob/master/Proyecto_Ciegos.ino</a>.
