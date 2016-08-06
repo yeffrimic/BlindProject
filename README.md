@@ -28,8 +28,11 @@ Please change the LED2 by the coin vibrator.
 ![Alt text](/images/circuit/schematic.png?raw=true "Optional Title"=400x)
 
 ##Board
-
+ the board was made in proteus by labcenter the file is in the proteus folder
+ 
 ![Alt text](/images/circuit/board.png?raw=true "Optional Title"=400x)
+![Alt text](/images/circuit/3d.png?raw=true "Optional Title"=400x)
+![Alt text](/images/circuit/3d2.png?raw=true "Optional Title"=400x)
 ##Issues
 
 ##STL FILES

@@ -27,7 +27,7 @@ void setup() {
 void loop() {
   if (digitalRead(button) == LOW) {
     digitalWrite(VccUltrasonicSensor, LOW);
-    delay(10000);
+    delay(30000);
     digitalWrite(VccUltrasonicSensor, HIGH);
   }
   int average = ultrasonicsensor();
