@@ -3,12 +3,12 @@
 
 ![Alt text](/images/logo.jpg?raw=true "Optional Title"=400x)
 Is an open project that want to give blind people a new way to feel the world, using an ultrasonic sensor to measure the distance between the device and an obstacle a meter away.
-[website](https://yeffrimic.github.io/proyectos/blindproject.html)
+[website](https://yeffrimic.github.io/proyectos/sonar.html)
 ##Usage
 you can use it as a clothespin, just need to put in the clothes.
 
 ##Team Members
-[Yeffri J. Salazar](https://yeffrimic.github.io) team leader, prototyping.<br />
+[Yeffri J. Salazar](https://yeffrimic.github.io) team leader, prototyping.
 [Sebastian Juarez](https://jucamake.wordpress.com) 3d design.
 [Elmer Colchaj](https://www.facebook.com/E.R.C.G.X) schematic and PCB design.
 
