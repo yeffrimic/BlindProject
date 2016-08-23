@@ -8,9 +8,9 @@ Is an open project that want to give blind people a new way to feel the world, u
 you can use it as a clothespin, just need to put in the clothes.
 
 ##Team Members
-[Yeffri J. Salazar](https://yeffrimic.github.io) team leader, prototyping.
-[Sebastian Juarez](https://jucamake.wordpress.com) 3d design.
-[Elmer Colchaj](https://www.facebook.com/E.R.C.G.X) schematic and PCB design.
+[Yeffri J. Salazar](https://yeffrimic.github.io) team leader, prototyping.<br>
+[Sebastian Juarez](https://jucamake.wordpress.com) 3d design.<br>
+[Elmer Colchaj](https://www.facebook.com/E.R.C.G.X) schematic and PCB design.<br>
 
 ##Requirements
 * [Attiny85.](http://www.ebay.com/itm/10PCS-ATTINY13A-PU-ATTINY13A-DIP8-IC-MCU-AVR-1K-FLASH-20MHZ-ATMEL-NEW-/191674226371)
